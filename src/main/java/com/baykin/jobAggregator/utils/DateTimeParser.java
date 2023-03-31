@@ -1,4 +1,4 @@
-package com.baykin.aggregator.utils;
+package com.baykin.jobAggregator.utils;
 
 import java.time.LocalDateTime;
 
